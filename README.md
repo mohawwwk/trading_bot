@@ -114,7 +114,7 @@ git commit -m "Binance Futures Trading Bot - initial commit"
 Then:
 1. Go to github.com and create a **new public repository** called `trading_bot`
 2. Copy the commands GitHub shows you under **"push an existing repository"** and run them — looks like:
-```
+
 git remote add origin https://github.com/yourusername/trading_bot.git
 git branch -M main
 git push -u origin main
